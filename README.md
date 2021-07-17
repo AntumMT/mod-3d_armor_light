@@ -27,5 +27,6 @@ armor_light.is_lighted(item)
 
 ### Links:
 
+- [Forum](https://forum.minetest.net/viewtopic.php?t=27034)
 - [Git repo](https://github.com/AntumMT/mod-3d_armor_light)
 - [Changelog](changelog.txt)
