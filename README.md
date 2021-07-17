@@ -15,13 +15,13 @@ Methods:
 armor_light.register(item, lvalue)
 - Register an item to emit light when equipped in the armor inventory.
 - params:
-	- item:   Item name or ItemStack.
-	- lvalue:	Light value (optional) (default: 10).
+  - item:   Item name or ItemStack.
+  - lvalue: Light value (optional) (default: 10).
 
 armor_light.is_lighted(item)
 - Checks if an item is registered as light-emitting from armor inventory.
 - params:
-	- item:   Item name or ItemStack.
+  - item:   Item name or ItemStack.
 - returns:  `true` if the item is registered.
 ```
 
