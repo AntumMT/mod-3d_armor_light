@@ -27,6 +27,7 @@ armor_light.is_lighted(item)
 
 ### Links:
 
+- [![ContentDB](https://img.shields.io/static/v1?label=ContentDB&message=3D%20Armor%20Light&color=%23375a7f&logo=minetest)](https://content.minetest.net/packages/AntumDeluge/3d_armor_light/)
 - [Forum](https://forum.minetest.net/viewtopic.php?t=27034)
 - [Git repo](https://github.com/AntumMT/mod-3d_armor_light)
 - [Changelog](changelog.txt)
