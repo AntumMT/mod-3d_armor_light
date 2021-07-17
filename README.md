@@ -29,4 +29,3 @@ armor_light.is_lighted(item)
 
 - [Git repo](https://github.com/AntumMT/mod-3d_armor_light)
 - [Changelog](changelog.txt)
-- [TODO](TODO.txt)
