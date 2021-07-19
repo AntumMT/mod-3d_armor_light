@@ -4,6 +4,8 @@
 
 A library for [3d_armor](https://content.minetest.net/packages/stu/3d_armor/) that adds [wielded_light](https://content.minetest.net/packages/bell07/wielded_light/) support.
 
+![screenshot](screenshot.png)
+
 ### Licensing:
 
 - Code: [MIT](LICENSE.txt)
