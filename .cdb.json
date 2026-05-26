@@ -1,0 +1,19 @@
+{
+	"type": "MOD",
+	"title": "3D Armor Light",
+	"name": "3d_armor_light",
+	"short_description": "Wielded Light for 3d_armor.",
+	"dev_state": "MAINTENANCE_ONLY",
+	"ai_disclosure": "NONE",
+	"tags": ["library", "tools"],
+	"content_warnings": null,
+	"license": "MIT",
+	"media_license": "MIT",
+	"repo": "https://codeberg.org/AntumLuanti/mod-3d_armor_light",
+	"website": null,
+	"issue_tracker": "https://codeberg.org/AntumLuanti/mod-3d_armor_light/issues",
+	"forums": "27034",
+	"video_url": null,
+	"donate_url": null,
+	"translation_url": null
+}
