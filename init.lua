@@ -8,7 +8,7 @@ dofile(armor_light.path .. "/api.lua")
 
 
 wielded_light.register_player_lightstep(function(player)
-	local armor_inv = minetest.get_inventory({
+	local armor_inv = core.get_inventory({
 		type = "detached",
 		name = player:get_player_name() .. "_armor",
 	})
