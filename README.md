@@ -31,5 +31,8 @@ armor_light.is_lighted(item)
 
 - [![ContentDB](https://img.shields.io/static/v1?label=ContentDB&message=3D%20Armor%20Light&color=%23375a7f&logo=minetest)](https://content.luanti.org/packages/AntumDeluge/3d_armor_light/)
 - [Forum](https://forum.luanti.org/viewtopic.php?t=27034)
-- [Git repo](https://github.com/AntumMT/mod-3d_armor_light)
+- Git repos:
+    - [Codeberg](https://codeberg.org/AntumLuanti/mod-3d_armor_light)
+    - [GitHub](https://github.com/AntumMT/mod-3d_armor_light)
+    - [GitLab](https://gitlab.com/AntumMT/mod-3d_armor_light)
 - [Changelog](changelog.txt)
